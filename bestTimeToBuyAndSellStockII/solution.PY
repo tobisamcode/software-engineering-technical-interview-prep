@@ -1,5 +1,5 @@
 class Solution(object):
-    def maxProfit(self, prices: List[int]) -> imt:
+    def maxProfit(self, prices: List[int]) -> int:
 
         profit = 0
 
