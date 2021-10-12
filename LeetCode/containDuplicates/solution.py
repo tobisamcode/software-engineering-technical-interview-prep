@@ -1,5 +1,5 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int) -> bool:
+    def containsDuplicate(self, nums: List[int]) -> bool:
         table = set()
         for num in nums:
             if num in table:
@@ -7,5 +7,3 @@ class Solution:
             else:
                 table.add(num)
         return False
-
-        
