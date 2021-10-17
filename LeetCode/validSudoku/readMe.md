@@ -11,6 +11,8 @@ Note:
 A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 Only the filled cells need to be validated according to the mentioned rules.
 
+![img](https://github.com/tobisamcode/software-engineering-technical-interview-prep/blob/master/LeetCode/validSudoku/validsudoku.png)
+
 ### Example 1:
 
 
